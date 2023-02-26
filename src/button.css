@@ -1,0 +1,9 @@
+.btn {
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+    border-radius: 25px;
+}
+.btn:active {
+    background-color: white;
+}
